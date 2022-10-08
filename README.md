@@ -4,6 +4,7 @@
 
 [![Linkedin: EleazarChusmita](https://img.shields.io/badge/-EleazarChusmita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eleazarchusmita/)](https://www.linkedin.com/in/eleazarchusmita/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/tecni2?label=follow&style=social)](https://github.com/tecni2)
+<img src="https://komarev.com/ghpvc/?username=tecni2" alt="tecni2" />
 
 <h2>A little more about me...</h2> 
 
