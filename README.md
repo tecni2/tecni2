@@ -17,9 +17,9 @@
 
 ```javascript
 const goalsThisYear = {
-  toLearn: [Javascript, HTML, CSS, Python],
+  toLearn: [Javascript, HTML, CSS, Java],
   
-  keepLearning: [React, Node],
+  keepLearning: [React, Node, Next],
   
  challenge: "My challenge was to enter the full stack bootcamp at Academlo."
 }
