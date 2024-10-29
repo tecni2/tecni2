@@ -21,7 +21,7 @@ const goalsThisYear = {
   
   keepLearning: [React, Node, Next],
   
- challenge: "My challenge was to enter the full stack bootcamp at Academlo."
+ challenge: "My challenge for 2025 is to have an excellent command of JavaScript, React and Node."
 }
 ```
 
